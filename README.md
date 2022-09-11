@@ -1,10 +1,10 @@
 The ALV JavaScript library for Smart Contract development.
 
-See [documentation](https://alveyproject.github.io/alveyjs-doc/).
+See [documentation](https://alveycoin.github.io/alveyjs-doc/).
 
-See [中文 API 文档](https://alveyproject.github.io/alveyjs-doc-cn/).
+See [中文 API 文档](https://alveycoin.github.io/alveyjs-doc-cn/).
 
-See [companion tutorial](https://github.com/alveyproject/alveybook/blob/master/en/part2/erc20-js.md).
+See [companion tutorial](https://github.com/alveycoin/alveybook/blob/master/en/part2/erc20-js.md).
 
 # Install
 
@@ -37,7 +37,7 @@ async function transfer(fromAddr, toAddr, amount) {
 }
 ```
 
-The [full source code](https://github.com/alveyproject/alveybook-mytoken-alveyjs-cli).
+The [full source code](https://github.com/alveycoin/alveybook-mytoken-alveyjs-cli).
 
 > This example uses async/await (supported natively by Node 8+).
 
